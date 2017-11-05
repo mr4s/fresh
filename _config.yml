@@ -1,25 +1,23 @@
 # Profile information
-name: Fresh
-title: Fresh - Free Jekyll Theme
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+name: Zombie Survival 101
+title: How to Survive the Zombie Apocalypse
+description: A hands-on guide to surviving the eminent apocalypse using programmable boards
 permalink: ':title/'
-baseurl: "/fresh" # the subpath of your site, e.g. /blog
-url: "artemsheludko.pw" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/zombie-survival" # the subpath of your site, e.g. /blog
+url: "http://mr4s.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Social
-facebook: #Add your Facebook
-twitter: #Add your Twitter
-google-plus: #Add your Google+
-github: #Add your Github
+facebook: https://www.facebook.com/zydrate.gun#Add your Facebook
+#twitter: #Add your Twitter
+#google-plus: #Add your Google+
+github: https://github.com/mr4s #Add your Github
+linkedin: https://github.com/mr4s
 
 # Contact form
-email: #your-email@domain.com
+email: victoriamoraes42@gmail.com #your-email@domain.com
 
 # Comments
-discus-identifier: # Add your Disqus identifier
+#discus-identifier: # Add your Disqus identifier
 
 # Paginate
 paginate: 5
